@@ -34,7 +34,7 @@ Each repository has its own purpose and documentation. Check individual reposito
 Previously known as **Voidframe Interactive**, Vectora Studios represents the next chapter of our development journey.
 
 **Founded:** May 2024  
-**Platform:** Roblox  
+**Platforms:** [Roblox](https://www.roblox.com), [Vortex](https://playvortex.io)  
 **Focus:** Game Development & Technology
 
 ---
